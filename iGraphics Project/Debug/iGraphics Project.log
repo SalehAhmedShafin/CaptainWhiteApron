@@ -1,0 +1,15 @@
+﻿Build started 8/27/2022 1:44:22 AM.
+     1>Project "C:\Users\ASUS\Downloads\iGraphics All (Junaed)\iGraphics All (Junaed)\iGraphics Project\iGraphics Project\iGraphics Project.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\iGraphics Project.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Captain White apron.cpp"
+         Captain White apron.cpp
+     1>c:\users\asus\downloads\igraphics all (junaed)\igraphics all (junaed)\igraphics project\igraphics project\captain white apron.cpp(695): warning C4129: 'k' : unrecognized character escape sequence
+     1>c:\users\asus\downloads\igraphics all (junaed)\igraphics all (junaed)\igraphics project\igraphics project\captain white apron.cpp(714): error C2374: 'f4' : redefinition; multiple initialization
+                 c:\users\asus\downloads\igraphics all (junaed)\igraphics all (junaed)\igraphics project\igraphics project\captain white apron.cpp(710) : see declaration of 'f4'
+     1>Done Building Project "C:\Users\ASUS\Downloads\iGraphics All (Junaed)\iGraphics All (Junaed)\iGraphics Project\iGraphics Project\iGraphics Project.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.65
